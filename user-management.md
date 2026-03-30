@@ -17,7 +17,7 @@ Create and manage users in Microsoft Entra ID
 ## Screenshots
 
 ### Users List
-![Users List](screenshots/user-management-users-list.png)
+![Users List](screenshots/user-management-users-list.png.png)
 
 ### User Profile
-![User Profile](screenshots/user-management-user-profile.png)
+![User Profile](screenshots/user-management-user-profile.png.png)
