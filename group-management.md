@@ -22,7 +22,7 @@ Create and manage groups in Microsoft Entra ID
 ## Screenshots
 
 ### Groups List
-![Groups List](screenshots/group-management-groups-list.png)
+![Groups List](screenshots/group-management-groups-list.png.png)
 
 ### Group Members
-![Group Members](screenshots/group-management-members.png)
+![Group Members](screenshots/group-management-members.png.png)
